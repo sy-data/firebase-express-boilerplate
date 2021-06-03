@@ -25,7 +25,7 @@ $ npm install
 
 
 ## local run 
-http://localhost:5000/
+http://localhost:3000/
 ```bash
 your_app_name/functions $ npm run local
 ```
@@ -42,8 +42,6 @@ your_app_name $ firebase serve
 ```
 
 http://localhost:5000/
-or
-http://localhost:5001/{your-firebase-project-id}/us-central1/app
 
 
 ## firebase deploy
