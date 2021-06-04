@@ -36,7 +36,7 @@ choose your firebase project
 ```bash
 your_app_name $ firebase use --add
 ```
-and 
+firebase emulator run 
 ```bash
 your_app_name $ firebase serve
 ```
