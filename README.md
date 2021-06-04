@@ -1,6 +1,6 @@
 # firebase-express-template
 
-## How to Install
+## How to use
 
 clone repository
 
