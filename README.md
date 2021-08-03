@@ -55,3 +55,5 @@ https://{your-firebase-project-id}.web.app/
 https://fir-express-b9795.web.app/
 
 
+
+[![syjang's GitHub stats](https://github-readme-stats.vercel.app/api?username=syjang&count_private=true&show_icons=true)](https://github.com/sy-data/firebase-express-template)
