@@ -57,3 +57,4 @@ https://fir-express-b9795.web.app/
 
 
 [![syjang's GitHub stats](https://github-readme-stats.vercel.app/api?username=syjang&show_icons=true)]
+[![sy-data's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy-data&show_icons=true)]
