@@ -56,4 +56,4 @@ https://fir-express-b9795.web.app/
 
 
 
-[![syjang's GitHub stats](https://github-readme-stats.vercel.app/api?username=syjang&count_private=true&show_icons=true)](https://github.com/sy-data/firebase-express-template)
+[![syjang's GitHub stats](https://github-readme-stats.vercel.app/api?username=syjang&count_private=true&show_icons=true&repo=firebase-express-template)](https://github.com/sy-data/firebase-express-template)
