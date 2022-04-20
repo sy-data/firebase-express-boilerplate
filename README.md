@@ -1,4 +1,4 @@
-# firebase-express-template
+# firebase-express-boilerplate
 
 ## How to use
 
@@ -6,12 +6,12 @@ clone repository
 
 
 ```bash
-$ git clone https://github.com/sy-data/firebase-express-template.git
+$ git clone https://github.com/sy-data/firebase-express-boilerplate.git
 ```
 rename 
 
 ```bash
-$ mv firebase-express-template your_app_name
+$ mv firebase-express-boilerplate your_app_name
 ```
 
 package install
